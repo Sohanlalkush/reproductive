@@ -11,6 +11,7 @@
     "build": "echo 'Bulding.... (not actually doing something, but usually I would)'"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6"
   }
 }
